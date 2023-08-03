@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  float: right;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 280px;
+}
+.AddtoCart {
+  margin: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 50%;
+}
